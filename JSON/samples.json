@@ -1,1 +1,20 @@
-[ ]
+[
+  {
+    "name": "im all i know",
+    "file": "samples/im_all_i_know.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "weee",
+    "file": "samples/weee.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "ive hurt you so",
+    "file": "samples/ive_hurt_you_so.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  }
+]
