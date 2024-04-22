@@ -1,22 +1,17 @@
 [
   {
-    "name": "beat 1",
-    "pitch": "D#4",
+    "name": "KICK",
+    "pitch": "A3",
     "pattern": "100"
   },
   {
-    "name": "beat 2",
-    "pitch": "A3",
-    "pattern": "1000"
-  },
-  {
-    "name": "beat 3",
-    "pitch": "D4",
-    "pattern": "10"
-  },
-  {
-    "name": "beat 4",
-    "pitch": "F4",
+    "name": "REVERSE CYMBLE",
+    "pitch": "E4",
     "pattern": "10000"
+  },
+  {
+    "name": "SHOT 2",
+    "pitch": "D#4",
+    "pattern": "10"
   }
 ]
