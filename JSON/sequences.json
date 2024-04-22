@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "name": "SOMETHING MEANINGFUL",
+    "loop": "2:2:2",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:0:0.1",
+        "pitch": "C4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "2:1:2.0",
+        "pitch": "Db4",
+        "dur": "4n",
+        "vel": "1"
+      }
+    ]
+  },
+  {
+    "name": "cool sequence",
+    "loop": "5:1:2",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:0:1.0",
+        "pitch": "D#4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "5:0:2.0",
+        "pitch": "C4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:2:1.7",
+        "pitch": "C4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "3:3:2.9",
+        "pitch": "C4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "3:2:1.0",
+        "pitch": "C4",
+        "dur": "4n",
+        "vel": "1"
+      }
+    ]
+  }
+]
