@@ -1,1 +1,17 @@
-[ ]
+[
+  {
+    "name": "KICK",
+    "pitch": "A3",
+    "pattern": "100"
+  },
+  {
+    "name": "REVERSE CYMBLE",
+    "pitch": "E4",
+    "pattern": "10000"
+  },
+  {
+    "name": "SHOT 2",
+    "pitch": "D#4",
+    "pattern": "10"
+  }
+]
